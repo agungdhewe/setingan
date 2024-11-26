@@ -1,0 +1,16 @@
+{
+    "name": "agungdhewe/setingan",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "AgungDhewe\\Setingan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agung Nugrroho",
+            "email": "agung.dhewe@gmail.com"
+        }
+    ],
+    "require": {}
+}
