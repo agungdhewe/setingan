@@ -4,7 +4,7 @@ namespace AgungDhewe\Setingan;
 
 class Config
 {
-	const string SPARATOR = ".";
+	const SPARATOR = ".";
 
 	private static array $_config;
 	private static array $_usedConfig;
