@@ -2,7 +2,7 @@
 namespace AgungDhewe\Setingan;
 
 
-final class Config
+class Config
 {
 	const string SPARATOR = ".";
 
